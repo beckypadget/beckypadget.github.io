@@ -1,0 +1,7 @@
+baseURL = 'https://socianatura.org/'
+languageCode = 'en-us'
+title = 'SociaNatura'
+theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
