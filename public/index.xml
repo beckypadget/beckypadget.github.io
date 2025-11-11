@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/how-theory-works/</link>
       <pubDate>Tue, 11 Nov 2025 14:44:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/how-theory-works/</guid>
-      <description>&lt;h1 id=&#34;the-purpose-of-theoretical-modelling-in-ecology-and-evolution&#34;&gt;The purpose of theoretical modelling in ecology and evolution&lt;/h1&gt;&#xA;&lt;p&gt;Theoretical models fall into two broad categories: mechanistic models that aim to accurately and precisely describe a specific system (e.g., a cell) and predict perturbations to specific systems; and non-mechanistic (`phenomenological&amp;rsquo;) explanatory models which broadly describe a part of many systems and aim to qualitatively describe them in order to explain what might be going on. These two broad approaches have very different aims and thus very different methods are appropriate to develop and test the output of these models.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;the-purpose-of-theoretical-modelling-in-ecology-and-evolution&#34;&gt;The purpose of theoretical modelling in ecology and evolution&lt;/h1&gt;&#xA;&lt;p&gt;## How are models used in behavioural ecology?&lt;/p&gt;&#xA;&lt;p&gt;Theoretical models fall into two broad categories: mechanistic models that aim to accurately and precisely describe a specific system (e.g., a cell) and predict perturbations to specific systems; and non-mechanistic (`phenomenological&amp;rsquo;) explanatory models which broadly describe a part of many systems and aim to qualitatively describe them in order to explain what might be going on. These two broad approaches have very different aims and thus very different methods are appropriate to develop and test the output of these models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Group size and cooperation</title>
       <link>http://localhost:1313/posts/group-size-cooperation/</link>
       <pubDate>Sat, 12 Aug 2023 14:44:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/group-size-cooperation/</guid>
-      <description>&lt;h1 id=&#34;do-individuals-in-larger-groups-always-cooperate-less&#34;&gt;Do individuals in larger groups always cooperate less?&lt;/h1&gt;&#xA;&lt;p&gt;The more people who observe an incident like a fire, the less likely it is that anyone will call for help. This is initially counter-intuitive: surely the more people see a problem, the more likely it is that someone will help? Except that sometimes, the more people that are present, the more everyone thinks “well someone else will do it, so I won’t” so each person becomes less likely to help. And this is something that we see in some scenarios in nature. When birds or antelope are in a larger group, they will spend less of their time looking for predators than they do when they are in smaller groups, even though if they look for predators, that is helpful to everyone (including the animal itself!). But when we investigated a similar phenomenon in a small tropical fish, we found something else.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;do-animals-in-larger-groups-always-cooperate-less&#34;&gt;Do animals in larger groups always cooperate less?&lt;/h1&gt;&#xA;&lt;p&gt;The more people who observe an incident like a fire, the less likely it is that anyone will call for help. This is initially counter-intuitive: surely the more people see a problem, the more likely it is that someone will help? Except that sometimes, the more people that are present, the more everyone thinks “well someone else will do it, so I won’t” so each person becomes less likely to help. And this is something that we see in some scenarios in nature. When birds or antelope are in a larger group, they will spend less of their time looking for predators than they do when they are in smaller groups, even though if they look for predators, that is helpful to everyone (including the animal itself!). But when we investigated a similar phenomenon in a small tropical fish, we found something else.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Us, them and the others</title>
@@ -35,6 +35,13 @@
       <pubDate>Wed, 18 Aug 2021 14:44:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/marking-through-moults/</guid>
       <description>&lt;h1 id=&#34;a-method-for-individually-marking-insects&#34;&gt;A method for individually marking insects&lt;/h1&gt;&#xA;&lt;p&gt;When conducting behavioural experiments, it can be useful to be able to identify individuals. One way to individually mark animals is to use ‘visible implant elastomer’, which is essentially a small plastic tattoo that sits below the surface of animals’ skin. It comes in different colours and can be applied in different formations to uniquely mark many animals.&lt;/p&gt;&#xA;&lt;p&gt;One set of animals that is particularly hard to mark during experiments is insects because surface dyes can affect important olfactory cues and change behaviour. In this experiment, we tested whether visible implant elastomer would be appropriate for marking insects. Specifically, we tested the method in termites (&lt;em&gt;Zootermopsis angusticollis&lt;/em&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -15,4 +15,4 @@ We found that, while termites clearly responded differently to non-groupmates th
 
 This shows that these termites’ groupmate recognition is not constrained by the shared environment that fusing groups often have. It also shows that there are no environmentally driven neighbour-stranger effects in this species, meaning that they respond to all newcomers in the same way. This is interesting because it shows that fusion is probably not an accident driven by failed recognition, which means it could be a phenomenon that has important fitness consequences for the individuals and colonies involved.
 
-Read our open access paper in (Ecology and Evolution)[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9901].
+Read our open access paper in [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9901).

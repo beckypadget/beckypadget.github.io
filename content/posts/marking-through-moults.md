@@ -13,4 +13,4 @@ We gave each termite a single mark, then assayed their survival and behaviour ov
 
 We suggest that visible implant elastomer could be useful for individually marking insects such as termites, but that researchers should be cautious when carrying out behavioural assays on marked individuals.
 
-Read our open access paper in (Ecology and Evolution)[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8030].
+Read our open access paper in [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8030).

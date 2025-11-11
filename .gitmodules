@@ -4,3 +4,12 @@
 [submodule "themes/vortisil"]
 	path = themes/vortisil
 	url = https://github.com/khitezza/vortisil
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/loficode"]
+	path = themes/loficode
+	url = https://github.com/raisingpixels/loficode-hugo-theme.git
+[submodule "themes/hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome.git
