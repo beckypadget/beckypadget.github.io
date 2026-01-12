@@ -1,7 +1,7 @@
 baseURL = 'https://beckypadget.github.io/'
 languageCode = 'en-us'
 title = 'SociaNatura'
-theme = 'vortisil'
+theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
