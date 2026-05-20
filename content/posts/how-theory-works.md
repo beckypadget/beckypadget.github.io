@@ -3,7 +3,10 @@ date = '2025-11-11T14:44:29Z'
 draft = false
 title = 'Theory and reality'
 +++
+
 # The purpose of theoretical modelling in ecology and evolution
+
+![A cool wavey image that could represent a fitness landscape](../../static/images/fitness-landscape.jpg)
 
 ## How are models used in behavioural ecology?
 

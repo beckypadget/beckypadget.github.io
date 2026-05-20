@@ -13,3 +13,12 @@
 [submodule "themes/hugo-blog-awesome"]
 	path = themes/hugo-blog-awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/themes/hugo-theme-console"]
+	path = themes/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git

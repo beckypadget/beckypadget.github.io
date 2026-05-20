@@ -5,3 +5,24 @@ theme = 'vortisil'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  customCss = ["css/custom-css.css"]
+  title = "SociaNatura"
+  author = "Rebecca Padget"
+  description = "Social behaviour research"
+  profilePicture = "images/treephoto.jpg"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"

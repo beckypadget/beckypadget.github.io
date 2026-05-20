@@ -6,14 +6,21 @@
     <description>Recent content on SociaNatura</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Nov 2025 14:44:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fair pay? How rewards can affect public goods production</title>
+      <link>http://localhost:1313/posts/reward-inequity/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reward-inequity/</guid>
+      <description>&lt;p&gt;Many animals exchange goods and services similar to the ways in which humans trade. These exchanges in so-called ‘biological markets’ can be relatively simple: you scratch my back, I scratch yours, literally. Individuals often exchange grooming, especially in those hard to reach areas where only a friend can get to. But sometimes exchanges can be between individuals of different species, or involve very different behaviours. For example, when a ray is cleaned by a small cleaner fish, the ray receives a hygienic service and the cleaner fish receives a meal. Because of this trade, the laws of supply demand apply: when there are more rays (high demand for cleaners), each ray receives a lesser service because the cleaner can just get another ray if this one leaves; when there are more cleaner fish (high supply of cleaners), rays can be demand better treatment or they will go to a competitor, meaning that cleaners need to up their game to compete with others.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Theory and reality</title>
       <link>http://localhost:1313/posts/how-theory-works/</link>
       <pubDate>Tue, 11 Nov 2025 14:44:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/how-theory-works/</guid>
-      <description>&lt;h1 id=&#34;the-purpose-of-theoretical-modelling-in-ecology-and-evolution&#34;&gt;The purpose of theoretical modelling in ecology and evolution&lt;/h1&gt;&#xA;&lt;p&gt;## How are models used in behavioural ecology?&lt;/p&gt;&#xA;&lt;p&gt;Theoretical models fall into two broad categories: mechanistic models that aim to accurately and precisely describe a specific system (e.g., a cell) and predict perturbations to specific systems; and non-mechanistic (`phenomenological&amp;rsquo;) explanatory models which broadly describe a part of many systems and aim to qualitatively describe them in order to explain what might be going on. These two broad approaches have very different aims and thus very different methods are appropriate to develop and test the output of these models.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;the-purpose-of-theoretical-modelling-in-ecology-and-evolution&#34;&gt;The purpose of theoretical modelling in ecology and evolution&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../static/images/fitness-landscape.jpg&#34; alt=&#34;A cool wavey image that could represent a fitness landscape&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;## How are models used in behavioural ecology?&lt;/p&gt;&#xA;&lt;p&gt;Theoretical models fall into two broad categories: mechanistic models that aim to accurately and precisely describe a specific system (e.g., a cell) and predict perturbations to specific systems; and non-mechanistic (`phenomenological&amp;rsquo;) explanatory models which broadly describe a part of many systems and aim to qualitatively describe them in order to explain what might be going on. These two broad approaches have very different aims and thus very different methods are appropriate to develop and test the output of these models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Group size and cooperation</title>
@@ -41,7 +48,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, this is a test!&lt;/p&gt;&#xA;&lt;h3 id=&#34;social-links&#34;&gt;Social Links&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/beckypadget&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/beckypadget.bsky.social&#34;&gt;Bluesky&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m an evolutionary biologist interested in the social behaviour of animals. In particular, I&amp;rsquo;m working on understanding how cooperative behaviour comes about and is maintained in groups of animals. Currently, I&amp;rsquo;m a postdoc at the University of Bristol and I&amp;rsquo;m working with both theoretical models and long-term dwarf mongoose data to work out how biological markets can maintained when one of the goods exchanged is a public good (benefitting everyone).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
