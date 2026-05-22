@@ -1,14 +1,12 @@
 +++
 date = '2025-11-11T14:44:29Z'
 draft = false
-title = 'Theory and reality'
+title = 'Theory and reality: The purpose of theoretical modelling in ecology and evolution'
 +++
 
-# The purpose of theoretical modelling in ecology and evolution
+![A cool wavey image that could represent a fitness landscape](/images/fitness-landscape.jpg)
 
-![A cool wavey image that could represent a fitness landscape](../../static/images/fitness-landscape.jpg)
-
-## How are models used in behavioural ecology?
+### How are models developed in behavioural ecology?
 
 Theoretical models fall into two broad categories: mechanistic models that aim to accurately and precisely describe a specific system (e.g., a cell) and predict perturbations to specific systems; and non-mechanistic (`phenomenological') explanatory models which broadly describe a part of many systems and aim to qualitatively describe them in order to explain what might be going on. These two broad approaches have very different aims and thus very different methods are appropriate to develop and test the output of these models.
 
@@ -18,7 +16,7 @@ Explanatory models are a bit more abstract. With these models, we aim to develop
 
 There are any number of sub-divisions within both of these categories. The explanatory models, for example, can be split into mathematical models, which rely on analytically tractable functions to make their predictions; and agent-based or other simulation-based models, which can model much more complex relationships. But both of these types of model aim to uncover something about why a natural system looks the way it does by proposing a potential mathematical mechanism underpinning the outcome. Game theoretic models, adaptive dynamics models, state-dependent models all fit into this category of hypothesis-formalising model and while some types of models lend themselves to mathematical or agent-based methods more, a variety of methods can be used for different model types.
 
-## How are models developed?
+### How are models developed?
 
 A theoretical model, like any hypothesis, begins with observations of the world. From the relationships between behaviours that we observe in data, we can establish some plausible hypotheses that we might want to model. Early on, it might be possible to exclude certain of these if they immediately make predictions that are nothing like the data. For example, if we see that cooperative behaviour increases when resources are abundant then there is no point trying to model this system with a function where cooperation is a negative function of resource availability.
 
@@ -28,12 +26,12 @@ Once we have established these broad models that describe many systems (species 
 
 There is an analogy to statistical modelling somewhere in here. Statistical models that have more assumptions (e.g., parametric models) tend to be more powerful because they make more precise statements about expectations of data or distributions than models with fewer assumptions (e.g., non-parametric). But there is a trade off because these parametric models with many assumptions can't be expected to make accurate predictions about data that do not meet those assumptions. Similarly, the more assumptions a theoretical model includes, the fewer systems it can be expected to make accurate predictions for; the fewer systems it can be useful for.
 
-## Why are models developed?
+### Why are models developed?
 
 So, what _are_ these theoretical models useful for? As I've mentioned, a theoretical model is a hypothesis for how the world works, and hypothesis generation is a critical step in the process of doing science. Most of the time, the hypothesis generation step is done verbally, and this can result in perfectly reasonable, perfectly testable hypotheses. The problem comes when we have a particularly complicated system that we're interested in (and if we're interested in biology then I'd argue that all the systems are fairly complicated). The problem is that verbal reasoning is messy. It relies on our brains holding many pieces of information together and correctly slotting them into the right places in the puzzle to create a logically consistent argument for why we see what we see (or before that, what we might expect to see). And this is hard. Our brains might essentially be logic engines, but they're the result of an incredibly inefficient algorithm (natural selection), and while verbal reasoning is the best way brains have to generate hypotheses, it is vulnerable to logical inconsistencies.
 
-Theoretical modelling, as an exercise, is a way to try to remove as many of these logical inconsistencies as possible. Different modelling frameworks provide a way to assemble the pieces of information that we have about our system in a sensible way so that we're not accidentally contradicting ourselves or tying ourselves in logical knots. A modelling framework is just a logical framework for how we think about our system. For example, game theory makes us identify which individuals are affecting each other's fitness and how by making us explicitly state who the 'players' are and what the 'game' boils down to in terms of payoffs. Solidifying these ideas allows us to avoid falling into the trap of a nice story (such as selection based on 'good of the species' arguments; see [Maynard Smith & Price, 1973](https://www.nature.com/articles/246015a0) for this example). Of course, it is still possible to get this kind of thing wrong and come up with a model that doesn't make sense, but the maths can often tell you when this happens, which reduces the chances that we pin a costly experiment on a logical fallacy.
+Theoretical modelling, as an exercise, is a way to try to remove as many of these logical inconsistencies as possible. Different modelling frameworks provide a way to assemble the pieces of information that we have about our system in a sensible way so that we're not accidentally contradicting ourselves or tying ourselves in logical knots. A modelling framework is just a logical framework for how we think about our system. For example, game theory makes us identify which individuals are affecting each other's fitness and how by making us explicitly state who the 'players' are and what the 'game' boils down to in terms of payoffs. Solidifying these ideas allows us to avoid falling into the trap of a nice story (such as selection based on 'good of the species' arguments; see [Maynard Smith & Price, 1973](https://www.nature.com/articles/246015a0) for this example). Of course, it is still possible to get this kind of thing wrong and come up with a model that doesn't make sense, but the maths can often tell you when this happens, which reduces the chances that we pin a costly experiment on a logical fallacy. 
 
-## Final thoughts
+### Final thoughts
 
 Of course, science would be nothing without empirical observations of the world. But I do think that there is a place for theoretical modelling alongside empirical research to point us in the right direction, to make sure that the experiments that we do carry out are based on sound reasoning and that we're not wasting resources on a straw person argument. In this way, integrating theoretical models with experimental research is important for making science more efficient. Those broader theoretical models that describe many systems do a slightly different job as well: they can provide the foundations for understanding our empirical observations. Predictions from such models allow us to interpret what we see given what we can't see but know to be true; they allow us to view our individual observations as a part of a complete picture; and they show us where our own favourite system -- whether that be pollinators or platypuses -- fits in with everyone else's. In brief, models can give us the context into which our findings fit, allowing us to make sense of not just our data, but of the world.
