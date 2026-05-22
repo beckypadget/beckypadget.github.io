@@ -2,7 +2,7 @@
 layout= "about"
 +++
 
-I'm an evolutionary biologist interested in the social behaviour of animals. In particular, I'm working on understanding how cooperative behaviour comes about and is maintained in groups of animals. Currently, I'm a postdoc at the University of Bristol and I'm working with both theoretical models and long-term dwarf mongoose data to work out how biological markets can maintained when one of the goods exchanged is a public good (benefitting everyone).
+I am an evolutionary biologist interested in the causes and consequences of cooperation and conflict in and amongst social groups. I enjoy combining theory and empirical work to understand how and why social interactions come about and how mechanisms may broadly apply to different social systems. I enjoy communicating science to a broad audience, through both outreach and teaching, and am particularly interested in breaking down the perceived barriers to using maths to understand biology.
 
 ### Social Links
 
