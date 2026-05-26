@@ -4,9 +4,12 @@ date = '2026-05-20'
 draft = false
 +++
 
-![A mongoose on sentinel duty](/images/audric-mongoose.jpg)
-Photo by <a href="https://unsplash.com/@a_wonkam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Audric Wonkam</a> on <a href="https://unsplash.com/photos/a-small-animal-standing-on-top-of-a-rock-XdwzecsZ4Z8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+<figure>
+  <img src="/images/audric-mongoose.jpg" alt="A little dwarf mongoose peeking out from behind a rock." style="width: 100%;">
+  <figcaption><em>Photo by <a href="https://unsplash.com/@a_wonkam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Audric Wonkam</a> on <a href="https://unsplash.com/photos/a-small-animal-standing-on-top-of-a-rock-XdwzecsZ4Z8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      </em> </figcaption>
+</figure>
+
 ### Rewards for public goods
 
 Animals in groups often contribute to the production of benefits that impact their whole group, so-called 'public goods'. These public goods can be really important, providing early warning systems against predators, territory defence or resource acquisition, so you might expect that individuals are willing to contribute. However, an individual actually does best of all if it doesn't have to contribute but can instead rely on others' contributions. If enough individuals do this, though, then the public good might not be produced at all and everyone loses out. 
@@ -31,7 +34,7 @@ Well, no.
 The higher average contribution is not the whole story. Inequitable rewards also result in free riders, who give a much lower effort than others. This is because when there is a lot of contribution to the public good (for example, lots of individuals are willing to sentinel and watch for predators), then some individuals do better to avoid the costs of contributing. True, they also miss out on the reward but as long as they receive the benefits from others’ public-goods contributions then they’re better off not putting the effort in.
 
 ### What does this mean?
-Our model predicts not just that rewards can promote contributions to public goods (previous work already showed this), but that the way in which these rewards are given matters, and that inequity can actually promote contributions to the public good if it can induce competition amongst would-be cooperators.
+Our model predicts not just that rewards can promote contributions to public goods (previous work already showed this), but that the way in which these rewards are shared out matters, and that inequity can actually promote contributions to the public good if it can induce competition amongst would-be cooperators.
 
 More broadly, our model lets us think about public goods production as a behaviour that can be traded (e.g., for a reward) on a market. Because the benefit of a public good is available to everyone, public goods producers cannot chose who to trade with -- in a way they trade with everybody. Our model shows that public goods producers can still compete for rewards like they would for partners in a market with dyadic trades, even though the benefit that they produce goes to everybody. This potentially opens up some new ways of thinking about and modelling public goods behaviours as commodities in a market, which could be a powerful framework for thinking about how such behaviours evolve.
 
