@@ -1,7 +1,7 @@
 +++
 title = 'Sharing the cost? How termite colony fusion affects soldier production and fitness'
 date = '2026-05-20'
-draft = false
+draft = true
 +++
 
 <figure>
