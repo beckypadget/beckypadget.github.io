@@ -11,8 +11,8 @@
     font-weight: revert;
 }
 
-figcaption {
-    font-style: italic;
+figure figcaption {
+    font-style: italic !important;
     font-size: 0.85em;
     text-align: center;
 }
