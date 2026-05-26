@@ -14,3 +14,6 @@ I am an evolutionary biologist interested in the causes and consequences of coop
 - [Github](https://github.com/beckypadget)
 - [Bluesky](https://bsky.app/profile/beckypadget.bsky.social)
 - [Google Scholar](https://scholar.google.com/citations?user=iafR7jIAAAAJ&hl=en&oi=ao)
+
+Main page photo by <a href="https://unsplash.com/@michaelbenz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Benz</a> on <a href="https://unsplash.com/photos/green-plants-with-white-background--IZ2sgQKIhM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
