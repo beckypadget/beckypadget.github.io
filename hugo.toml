@@ -13,6 +13,9 @@ theme = 'vortisil'
   profilePicture = "images/treephoto.jpg"
   favicon = "images/favicon.png"
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [menu]
 
   [[menu.main]]

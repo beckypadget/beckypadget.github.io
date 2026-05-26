@@ -10,3 +10,9 @@
     font-size: revert;
     font-weight: revert;
 }
+
+figcaption {
+    font-style: italic;
+    font-size: 0.85em;
+    text-align: center;
+}
