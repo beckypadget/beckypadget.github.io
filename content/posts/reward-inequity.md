@@ -1,5 +1,5 @@
 +++
-title = 'Mongoose markets: How rewards can promote public goods production (and free riding)'
+title = 'How rewards can promote public goods production (but also free riding)'
 date = '2026-05-20'
 draft = false
 +++
